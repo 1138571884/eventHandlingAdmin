@@ -8,7 +8,7 @@
     <version>1.0.0-release</version>
     <packaging>jar</packaging>
 
-    <name>febs_shiro_jwt</name>
+    <name>eventHandlingAdmin</name>
     <description>FEBS_Shrio_JWT</description>
 
     <parent>
